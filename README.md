@@ -24,4 +24,4 @@ Student of Karpagam Institute of Technology
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/windows 11-TUF_f-15-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
