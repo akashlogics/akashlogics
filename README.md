@@ -3,7 +3,7 @@
 Student of Karpagam Institute of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my profile                                                 
-- 🌱 I’m currently learning DSA and data Analysis project
+- 🌱 I’m currently learning DSA and data Analysis and ML project
 - 👯 I’m looking to collaborate on ML/AI and data science projects 
 - 🤔 I’m looking for freelancing and opensource project
 - 💬 Ask me about Python and C++
