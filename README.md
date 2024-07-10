@@ -36,6 +36,7 @@ Student of Karpagam Institute of Technology
 <a href="https://discord.gg/akashr0023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akashr0023" height="30" width="40" /></a>
 </p>
 
+
 ### 💻 Workspace Spec
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/>
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
