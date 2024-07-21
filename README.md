@@ -42,3 +42,4 @@ Student of Karpagam Institute of Technology
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 [![akashlogics's GitHub | Stats](https://stats.quira.sh/akashlogics/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
+[![akashlogics's Stack Overflow | Stats](https://stats.quira.sh/akashlogics/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
