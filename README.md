@@ -41,5 +41,12 @@ Student of Karpagam Institute of Technology
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/>
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+</a>
+</div>
+
 [![akashlogics's GitHub | Stats](https://stats.quira.sh/akashlogics/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
 [![akashlogics's Stack Overflow | Stats](https://stats.quira.sh/akashlogics/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
