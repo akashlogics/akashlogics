@@ -1,11 +1,4 @@
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm Akash R</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashr39t/">LinkedIn</a> -
-  <a href="https://www.instagram.com/rc_akash_200?igsh=MWl5bmM3NzE3dzZsbg==">Instagram</a> -
-  <a href="https://www.upwork.com/freelancers/~0100e7f7c5463091ba>Upwork">Upwork</a> - 
-  <a href="https://leetcode.com/u/akashlogics/">leetcode</a>
-  <a href="https://www.codechef.com/users/akashlogics">codechef</a>
-</p> 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 ![Blue Yellow Modern Creative Entrepreneur LinkedIn Banner](https://github.com/user-attachments/assets/baf6ec5f-240b-476b-b31f-2d19ba0435a3)
