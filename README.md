@@ -64,7 +64,7 @@ Student of Karpagam Institute of Technology
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
-### Database used
+### Database and cloud used
 <img height="70" width="70" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/><img width="70" height="70" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
