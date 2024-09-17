@@ -14,30 +14,23 @@ Student of Karpagam Institute of Technology
 - ⚡ Fun fact: Dear Git Algorithm: Connect me with people interested in Artificial Intelligence and Data Science
 
 ### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Connect with me 
-<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/rakesh250602/"><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/akashr39t/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/rc_akash_200?igsh=MWl5bmM3NzE3dzZsbg=="><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href = "https://www.facebook.com/rakesh6203/"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = "https://discordapp.com/users/944144134950748170"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
-<a href="https://www.linkedin.com/in/vanshchaurasiya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshchaurasiya24" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20559969/vansh-chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
-<a href="https://instagram.com/vxnshhh.xxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vxnshhh.xxiv" height="30" width="40" /></a>
-<a href="https://medium.com/@vanshchaurasiya1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vanshchaurasiya1557" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/12217737_Vansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vanshchaurasiya1" height="30" width="40" /></a>
-<a href="https://leetcode.com/vanshchaurasiya1557/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vanshchaurasiya1557/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vanshchaurasiya1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vanshchaurasiya1557" height="30" width="40" /></a>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akashr39t/)](https://www.linkedin.com/in/akashr39t)
+<a href = "https://www.facebook.com/profile.php?id=100050922853586&mibextid=ZbWKwL"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://discordapp.com/akashr0023"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
+<a href="https://twitter.com/AkashR39t"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="45" width="70" ></img></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCNhk-ltINwrfFF9qsOYAt0w" target="blank"><img align="top" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="50" width="65" /></a>
+
+<a href="https://stackoverflow.com//users/26453089/akash-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=)]( )
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/akashlogics/)](https://leetcode.com/u/akashlogics/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerearth.com/@akashmtp2004)](https://www.hackerearth.com/@akashmtp2004)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@akashmtp2004/)](https://www.hackerearth.com/@akashmtp2004/)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/akashlogics)](https://www.codechef.com/users/akashlogics)
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> &nbsp;
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-<a href="https://twitter.com/yashwanths814"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a> &nbsp;
-<a href="https://www.instagram.com/yashwanths814"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> &nbsp;
-<a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
- <a href="https://www.youtube.com/@pallaviwebmaster" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="30" width="40" /></a>
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/akashr39t)](https://www.kaggle.com/akashr39t)
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
@@ -84,7 +77,7 @@ Student of Karpagam Institute of Technology
   </h1>
 </div>
 
-### programming languages learned
+### 👨‍💻programming languages learned
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
@@ -92,10 +85,11 @@ Student of Karpagam Institute of Technology
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
-### Database and cloud used
-<img height="70" width="70" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+### 📦Database and 🗃️cloud used
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
@@ -105,8 +99,7 @@ Student of Karpagam Institute of Technology
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
 
 ### 💻 Workspace Spec
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/>
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img width="70" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/> <img height="45" width="200" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 [![akashlogics's GitHub | Stats](https://stats.quira.sh/akashlogics/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
 [![akashlogics's Stack Overflow | Stats](https://stats.quira.sh/akashlogics/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
