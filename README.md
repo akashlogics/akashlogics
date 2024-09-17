@@ -13,11 +13,31 @@ Student of Karpagam Institute of Technology
 - 😄 I was also a beginner
 - ⚡ Fun fact: Dear Git Algorithm: Connect me with people interested in Artificial Intelligence and Data Science
 
-### Connect with me 
+### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Connect with me 
+<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/rakesh250602/"><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "https://www.facebook.com/rakesh6203/"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://discordapp.com/users/944144134950748170"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
+<a href="https://www.linkedin.com/in/vanshchaurasiya24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanshchaurasiya24" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20559969/vansh-chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
+<a href="https://instagram.com/vxnshhh.xxiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vxnshhh.xxiv" height="30" width="40" /></a>
+<a href="https://medium.com/@vanshchaurasiya1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vanshchaurasiya1557" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/12217737_Vansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vanshchaurasiya1" height="30" width="40" /></a>
+<a href="https://leetcode.com/vanshchaurasiya1557/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vanshchaurasiya1557/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vanshchaurasiya1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vanshchaurasiya1557" height="30" width="40" /></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akashr39t/)](https://www.linkedin.com/in/akashr39t)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/akashlogics/)](https://leetcode.com/u/akashlogics/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerearth.com/@akashmtp2004)](https://www.hackerearth.com/@akashmtp2004)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/akashlogics)](https://www.codechef.com/users/akashlogics)
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> &nbsp;
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+<a href="https://twitter.com/yashwanths814"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a> &nbsp;
+<a href="https://www.instagram.com/yashwanths814"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> &nbsp;
+<a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
+ <a href="https://www.youtube.com/@pallaviwebmaster" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="30" width="40" /></a>
+
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
@@ -35,6 +55,14 @@ Student of Karpagam Institute of Technology
       </td>
     </tr>
   </table>
+</details>
+
+<details>
+  <summary><b>&nbsp;&nbsp;Show More Contributions</b></summary><br>
+  
+  | S.No. | Open Source Programs | Duration | Role | Rewards |
+  |:-----:|:-----:|:-----:|:-----:|:-----:|
+  | 1. | Innogeeks Winter Of Code | 11<sup>th</sup> January - 11<sup>th</sup> February 2024 | Project Maintainer | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-opensourcedevelopment-opensourcecontribution-activity-7175367622044082176-4VXP?utm_source=share&utm_medium=member_desktop) |
 </details>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
@@ -59,18 +87,20 @@ Student of Karpagam Institute of Technology
 ### programming languages learned
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 
 ### Database and cloud used
-<img height="70" width="70" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/><img width="70" height="70" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+<img height="70" width="70" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 ### IDE and Tools I Us
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" /><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
 
