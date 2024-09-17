@@ -7,7 +7,7 @@ Student of Karpagam Institute of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my profile                                              
 - 🌱 I’m currently learning DSA, Data Analysis, and ML project
-- 👯 I’m looking to collaborate on python, ML/AI and data science projects 
+- 👯 I’m looking to collaborate on Python, ML/AI, and data science projects 
 - 🤔 I’m looking for freelancing and opensource project
 - 💬 Ask me about Python and Data Science
 - 😄 I was also a beginner
@@ -51,11 +51,25 @@ Student of Karpagam Institute of Technology
 </details>
 
 <details>
-  <summary><b>&nbsp;&nbsp;Show More Contributions</b></summary><br>
+  <summary><b>&nbsp;&nbsp;hackathons won </b></summary><br>
   
-  | S.No. | Open Source Programs | Duration | Role | Rewards |
-  |:-----:|:-----:|:-----:|:-----:|:-----:|
-  | 1. | Innogeeks Winter Of Code | 11<sup>th</sup> January - 11<sup>th</sup> February 2024 | Project Maintainer | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-opensourcedevelopment-opensourcecontribution-activity-7175367622044082176-4VXP?utm_source=share&utm_medium=member_desktop) |
+  | S.No. | hackathon | Duration | Rewards |
+  |:-----:|:-----:|:-----:|:-----:|
+  | 1. | Bytes 2,0 hackathon | 15<sup>th</sup> march - 16<sup>th</sup> march 2024  | [Certificate](https://www.linkedin.com/posts/akashr39t_hackathon-byteworks2-activity-7202984890542288897-7C_Z?utm_source=share&utm_medium=member_desktop) |
+  
+</details>
+
+<details>
+  <summary><b>&nbsp;&nbsp;professional certificate </b></summary><br>
+  
+  | S.No. | Organition | Duration | certificates |
+  |:-----:|:-----:|:-----:|:-----:|
+  | 1. | Github | 05<sup>th</sup> february - 07<sup>th</sup> march 2024 | [Certificate](https://www.linkedin.com/learning/certificates/368a62a5153fa514c0985776fbae2c31bf0f83e2495e8662677201145e4966a5) |
+  | 2. | Microsoft | 01<sup>th</sup> may - 02<sup>th</sup> june 2024 | [Certificate](https://www.linkedin.com/learning/certificates/291ffec80f6b0221848e54c3483ff59159c5801dec0a30bee96b988806554b41) |
+  | 3. |  Oracle Cloud Infrastructure 2023 AI | 01<sup>th</sup> march - 09<sup>th</sup> may 2024 | [Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8FF03D421D12D22F748CDDCE599716C8C3F836EE81EC000F03C77C4BF2BEA6A) |
+  | 4. | MongoDB | 05<sup>th</sup> may - 07<sup>th</sup> june 2024 | [Certificate](https://learn.mongodb.com/c/opF_pYFmTQG32LIrBoxPEA) |
+  | 5. | Ppostman API | 01<sup>th</sup> june  - 02<sup>th</sup> Aug 2024 | [Certificate](https://badgr.com/public/assertions/mg3vY7d9S0e_pd6wqxTtng) |
+  
 </details>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
@@ -68,8 +82,6 @@ Student of Karpagam Institute of Technology
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
  </a>
-</div>
-</a>
 </div>
 
 <div>
