@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm Akash R</h1>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-![Blue Yellow Modern Creative Entrepreneur LinkedIn Banner](https://github.com/user-attachments/assets/baf6ec5f-240b-476b-b31f-2d19ba0435a3)
+![Blue Yellow LinkedIn Banner](https://github.com/user-attachments/assets/f27c88b8-6674-4f23-9039-24ba6732f892)
 
 Student of Karpagam Institute of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -16,7 +16,7 @@ Student of Karpagam Institute of Technology
 ### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Connect with me 
 <a href = "https://www.linkedin.com/in/akashr39t/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rc_akash_200?igsh=MWl5bmM3NzE3dzZsbg=="><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "mailto:akashmtp2004@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100050922853586&mibextid=ZbWKwL"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://discordapp.com/akashr0023"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
 <a href="https://twitter.com/AkashR39t"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="45" width="70" ></img></a> &nbsp;
@@ -51,11 +51,12 @@ Student of Karpagam Institute of Technology
 </details>
 
 <details>
-  <summary><b>&nbsp;&nbsp;hackathons won </b></summary><br>
+  <summary><b>&nbsp;&nbsp;hackathons </b></summary><br>
   
-  | S.No. | hackathon | Duration | Rewards |
-  |:-----:|:-----:|:-----:|:-----:|
-  | 1. | Bytes 2,0 hackathon | 15<sup>th</sup> march - 16<sup>th</sup> march 2024  | [Certificate](https://www.linkedin.com/posts/akashr39t_hackathon-byteworks2-activity-7202984890542288897-7C_Z?utm_source=share&utm_medium=member_desktop) |
+  | S.No. | hackathon | Duration | positions | Rewards | 
+  |:-----:|:-----:|:-----:|:-----:|:-----:|
+  | 1. | Bytes 2.0 hackathon | 15<sup>th</sup> march - 16<sup>th</sup> march 2024  | 2nd | [Certificate](https://www.linkedin.com/posts/akashr39t_hackathon-byteworks2-activity-7202984890542288897-7C_Z?utm_source=share&utm_medium=member_desktop) |
+  | 2. | TechNova:Igniting Brilliance (Season 1) | 07<sup>th</sup> sep - 07<sup>th</sup> oct 2024  | round 2 | [Certificate](https://unstop.com/certificate-preview/634b6ec2-59ab-41dc-a135-d59a63d37647?utm_campaign)
   
 </details>
 
@@ -105,10 +106,12 @@ Student of Karpagam Institute of Technology
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-### IDE and Tools I Us
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" /><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/>
+### IDE and Tools 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+
+<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 
 ### 💻 Workspace Spec
 <img width="70" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/> <img height="45" width="200" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
