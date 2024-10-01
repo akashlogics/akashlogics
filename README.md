@@ -13,6 +13,8 @@ Student of Karpagam Institute of Technology
 - 😄 I was also a beginner
 - ⚡ Fun fact: Dear Git Algorithm: Connect me with people interested in Artificial Intelligence and Data Science
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbaweunkvffglgbdvsm5oxnivm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Connect with me 
 <a href = "https://www.linkedin.com/in/akashr39t/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rc_akash_200?igsh=MWl5bmM3NzE3dzZsbg=="><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
