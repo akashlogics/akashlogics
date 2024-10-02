@@ -58,8 +58,8 @@ Student of Karpagam Institute of Technology
   | S.No. | hackathon | Duration | positions | Rewards | 
   |:-----:|:-----:|:-----:|:-----:|:-----:|
   | 1. | Bytes 2.0 hackathon | 15<sup>th</sup> march - 16<sup>th</sup> march 2024  | 2nd | [Certificate](https://www.linkedin.com/posts/akashr39t_hackathon-byteworks2-activity-7202984890542288897-7C_Z?utm_source=share&utm_medium=member_desktop) |
-  | 2. | TechNova:Igniting Brilliance (Season 1) | 07<sup>th</sup> sep - 07<sup>th</sup> oct 2024  | round 2 | [Certificate](https://unstop.com/certificate-preview/634b6ec2-59ab-41dc-a135-d59a63d37647?utm_campaign)
-  
+  | 2. | TechNova:Igniting Brilliance (Season 1) | 07<sup>th</sup> sep - 07<sup>th</sup> oct 2024  | round 2 | [Certificate](https://unstop.com/certificate-preview/634b6ec2-59ab-41dc-a135-d59a63d37647?utm_campaign) |
+  | 3. | Coding Challenge | 26<sup>th</sup> sep - 27<sup>th</sup> oct 2024  | winner(17th) | [Certificate](https://unstop.com/certificate-preview/111dd50c-719a-4db8-823e-4111c1c14925) |
 </details>
 
 <details>
