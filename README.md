@@ -3,6 +3,8 @@
 
 ![Blue Yellow LinkedIn Banner](https://github.com/user-attachments/assets/f27c88b8-6674-4f23-9039-24ba6732f892)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 Student of Karpagam Institute of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my profile                                              
@@ -32,7 +34,7 @@ Student of Karpagam Institute of Technology
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@akashmtp2004/)](https://www.hackerearth.com/@akashmtp2004/)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/akashlogics)](https://www.codechef.com/users/akashlogics)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/akashr39t)](https://www.kaggle.com/akashr39t)
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
@@ -74,7 +76,7 @@ Student of Karpagam Institute of Technology
   | 5. | Ppostman API | 01<sup>th</sup> june  - 02<sup>th</sup> Aug 2024 | [Certificate](https://badgr.com/public/assertions/mg3vY7d9S0e_pd6wqxTtng) |
   
 </details>
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
