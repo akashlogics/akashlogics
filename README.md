@@ -103,19 +103,13 @@ Student of Karpagam Institute of Technology
 
 
 ### 📦Database and 🗃️cloud used
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 ### IDE and Tools 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/>
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
-
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 
 ### 💻 Workspace Spec
 <img width="70" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/> <img height="45" width="200" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
