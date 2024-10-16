@@ -15,6 +15,8 @@ Student of Karpagam Institute of Technology
 - 😄 I was also a beginner
 - ⚡ Fun fact: Dear Git Algorithm: Connect me with people interested in Artificial Intelligence and Data Science
 
+  <a href="https://app.daily.dev/akashr24"><img align="right" src="https://api.daily.dev/devcards/v2/YU0Vv5W4ok56pfNSUVQkJ.png?r=626&type=default" width="356" alt="Akash R's Dev Card"/></a>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbaweunkvffglgbdvsm5oxnivm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Connect with me 
@@ -26,15 +28,17 @@ Student of Karpagam Institute of Technology
 <a href="https://twitter.com/AkashR39t"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="45" width="70" ></img></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCNhk-ltINwrfFF9qsOYAt0w" target="blank"><img align="top" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="50" width="65" /></a>
 
-<a href="https://stackoverflow.com//users/26453089/akash-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=)]( )
-
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/akashlogics/)](https://leetcode.com/u/akashlogics/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerearth.com/@akashmtp2004)](https://www.hackerearth.com/@akashmtp2004)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@akashmtp2004/)](https://www.hackerearth.com/@akashmtp2004/)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/akashlogics)](https://www.codechef.com/users/akashlogics)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/akashr39t)](https://www.kaggle.com/akashr39t)
+
+<a href="https://stackoverflow.com//users/26453089/akash-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=)]( )
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
