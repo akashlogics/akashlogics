@@ -16,6 +16,8 @@ Student of Karpagam Institute of Technology
 - ⚡ Fun fact: Dear Git Algorithm: Connect me with people interested in Artificial Intelligence and Data Science
 
   <a href="https://app.daily.dev/akashr24"><img align="right" src="https://api.daily.dev/devcards/v2/YU0Vv5W4ok56pfNSUVQkJ.png?r=626&type=default" width="356" alt="Akash R's Dev Card"/></a>
+  
+  <a <img  align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=akashlogics&theme=github-dark" alt="LeetCode Badges"/></a>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fbaweunkvffglgbdvsm5oxnivm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
