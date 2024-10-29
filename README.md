@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=akashlogics&icon=2&color=1)](https://visitcount.itsvg.in)
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm Akash R</h1>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
@@ -7,7 +8,7 @@
 
 Student of Karpagam Institute of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my profile                                              
+- 🔭 Here's my ![Portfolio]                                       
 - 🌱 I’m currently learning DSA, Data Analysis, and ML project
 - 👯 I’m looking to collaborate on Python, ML/AI, and data science projects 
 - 🤔 I’m looking for freelancing and opensource project
@@ -28,6 +29,7 @@ Student of Karpagam Institute of Technology
 <a href="https://twitter.com/AkashR39t"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="45" width="70" ></img></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCNhk-ltINwrfFF9qsOYAt0w" target="blank"><img align="top" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="50" width="65" /></a>
 
+### competitive programming:<br/>
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/akashlogics/)](https://leetcode.com/u/akashlogics/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerearth.com/@akashmtp2004)](https://www.hackerearth.com/@akashmtp2004)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@akashmtp2004/)](https://www.hackerearth.com/@akashmtp2004/)
@@ -36,6 +38,9 @@ Student of Karpagam Institute of Technology
 
 <a href="https://stackoverflow.com//users/26453089/akash-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20559969/vansh-chaurasiya" height="30" width="40" /></a>
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=)]( )
+
+### Big Data and LLM
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -102,12 +107,9 @@ Student of Karpagam Institute of Technology
 </div>
 
 ### 👨‍💻programming languages learned
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 ### 📦Database and 🗃️cloud used
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
@@ -120,6 +122,15 @@ Student of Karpagam Institute of Technology
 
 ### 💻 Workspace Spec
 <img width="70" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/> <img height="45" width="200" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+# 📊 GitHub Stats:
+![](https://github-contributor-stats.vercel.app/api?username=akashlogics&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akashlogics&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=akashlogics&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 [![akashlogics's GitHub | Stats](https://stats.quira.sh/akashlogics/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
 [![akashlogics's Stack Overflow | Stats](https://stats.quira.sh/akashlogics/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
