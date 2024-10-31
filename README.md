@@ -87,6 +87,7 @@ Student of Karpagam Institute of Technology
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![@akashlogics's Holopin badges](https://holopin.me/akashlogics)](https://holopin.io/@akashlogics)
 
   <img  align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=akashlogics&theme=github-dark" alt="LeetCode Badges"/>
   
