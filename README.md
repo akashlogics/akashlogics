@@ -82,7 +82,8 @@ Student of Karpagam Institute of Technology
   | 2. | Microsoft | 01<sup>th</sup> may - 02<sup>th</sup> june 2024 | [Certificate](https://www.linkedin.com/learning/certificates/291ffec80f6b0221848e54c3483ff59159c5801dec0a30bee96b988806554b41) |
   | 3. |  Oracle Cloud Infrastructure 2023 AI | 01<sup>th</sup> march - 09<sup>th</sup> may 2024 | [Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8FF03D421D12D22F748CDDCE599716C8C3F836EE81EC000F03C77C4BF2BEA6A) |
   | 4. | MongoDB | 05<sup>th</sup> may - 07<sup>th</sup> june 2024 | [Certificate](https://learn.mongodb.com/c/opF_pYFmTQG32LIrBoxPEA) |
-  | 5. | Ppostman API | 01<sup>th</sup> june  - 02<sup>th</sup> Aug 2024 | [Certificate](https://badgr.com/public/assertions/mg3vY7d9S0e_pd6wqxTtng) |
+  | 5. | Postman API | 01<sup>th</sup> june  - 02<sup>th</sup> Aug 2024 | [Certificate](https://badgr.com/public/assertions/mg3vY7d9S0e_pd6wqxTtng) |
+  | 6. | Devops| 10<sup>th</sup> oct  - 08<sup>th</sup> Nov 2024 | [Certificate](https://www.linkedin.com/learning/certificates/4c4d7fb4007fd5cd23fb0a96b8192b1d8bf96e6a021b2afe0703c90ccb8d7993) |
   
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
