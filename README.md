@@ -6,9 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Student of Karpagam Institute of Technology
+#### A Software developer with Data Science || Machine learning specialization 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my ![Portfolio]                                       
+
+- 🔭 Here's my![Portfolio]                                       
 - 🌱 I’m currently learning DSA, Data Analysis, and ML project
 - 👯 I’m looking to collaborate on Python, ML/AI, and data science projects 
 - 🤔 I’m looking for freelancing and opensource project
