@@ -1,3 +1,5 @@
+<p align = "left"><img src = "https://komarev.com/ghpvc/?username=akashlogics&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"></p>
+
 [![](https://visitcount.itsvg.in/api?id=akashlogics&icon=2&color=1)](https://visitcount.itsvg.in)
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm Akash R</h1>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
@@ -37,8 +39,12 @@
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/akashlogics)](https://www.codechef.com/users/akashlogics)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/akashr39t)](https://www.kaggle.com/akashr39t)
 
-### Articles and researchs
+### Articles and research
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=)](https://medium.com/@akashaiprompt650)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://quira.sh/user/akashlogics) 
+
+### 🌐Social channels
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@akashr-39t) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
