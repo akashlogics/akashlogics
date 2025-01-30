@@ -4,14 +4,15 @@
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm Akash R</h1>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-![Blue Yellow LinkedIn Banner](https://github.com/user-attachments/assets/f27c88b8-6674-4f23-9039-24ba6732f892)
+![Blue Yellow Modern Creative Entrepreneur LinkedIn Banner](https://github.com/user-attachments/assets/7c56cb59-db76-4827-97d0-f43efaf3df42)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### A Software developer with Data Science || Machine learning specialization 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my![Portfolio]                                       
+- 🔭 Here's my![Portfolio]                                      
 - 🌱 I’m currently learning DSA, Data Analysis, and ML project
 - 👯 I’m looking to collaborate on Python, ML/AI, and data science projects 
 - 🤔 I’m looking for freelancing and opensource project
@@ -102,8 +103,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 ### 📦Database and DevOps used
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
+<!--<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />-->
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
