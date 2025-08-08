@@ -28,10 +28,10 @@
 <a href = "https://www.linkedin.com/in/akashr39t/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rc_akash_200?igsh=MWl5bmM3NzE3dzZsbg=="><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:akashmtp2004@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100050922853586&mibextid=ZbWKwL"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<!--<a href = "https://www.facebook.com/profile.php?id=100050922853586&mibextid=ZbWKwL"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://discordapp.com/akashr0023"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
 <a href="https://twitter.com/AkashR39t"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="45" width="70" ></img></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCNhk-ltINwrfFF9qsOYAt0w" target="blank"><img align="top" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="50" width="65" /></a>
+<a href="https://www.youtube.com/channel/UCNhk-ltINwrfFF9qsOYAt0w" target="blank"><img align="top" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="pallavi-pallavi-8a63321a6/" height="50" width="65" /></a>-->
 
 ### competitive programming:<br/>
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/akashlogics/)](https://leetcode.com/u/akashlogics/)
@@ -119,7 +119,7 @@
 
   <img  align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=akashlogics&theme=github-dark" alt="LeetCode Badges"/>
   
-## GSSOC(24) Badges 🪶
+<!--## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -128,7 +128,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
  </a>
-</div>
+</div>-->
 
 
 # 📊 GitHub Stats:
