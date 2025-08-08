@@ -102,22 +102,27 @@
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
-### 📦Database and DevOps used
+---
+
+### 📦Database Used
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
 <!--<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />-->
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-### IDE and Tools 
+### 🛠️ IDE and Tools 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" /><img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/><img width="48" height="48" src="https://img.icons8.com/color/48/open-source--v1.png" alt="open-source--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 
+---
+
 ### 💻 Workspace Spec
-<img width="70" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/> <img height="45" width="200" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img width="70" height="64" src="https://img.icons8.com/nolan/64/asus--v2.png" alt="asus--v2"/> 
+<img height="45" width="200" src="https://img.shields.io/badge/NVIDIA-GTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+---
 
+### ⚔️Hacktoberfest
 [![@akashlogics's Holopin badges](https://holopin.me/akashlogics)](https://holopin.io/@akashlogics)
-
-  <img  align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=akashlogics&theme=github-dark" alt="LeetCode Badges"/>
   
 <!--## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -130,17 +135,42 @@
  </a>
 </div>-->
 
-
-# 📊 GitHub Stats:
-![](https://github-contributor-stats.vercel.app/api?username=akashlogics&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akashlogics&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=akashlogics&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashlogics&theme=github_dark&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
-[![akashlogics's GitHub | Stats](https://stats.quira.sh/akashlogics/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
-[![akashlogics's Stack Overflow | Stats](https://stats.quira.sh/akashlogics/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=akashlogics)
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=akashlogics&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashlogics&theme=github_dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=akashlogics&theme=github-dark" alt="LeetCode Badges" width="400"/>
+</div>
+
+---
+
+## 🌐 Other Stats:
+<div align="center">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=akashlogics">
+    <img src="https://stats.quira.sh/akashlogics/github?theme=dark" height="150"/>
+  </a>
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=akashlogics">
+    <img src="https://stats.quira.sh/akashlogics/stack-overflow?theme=dark" height="150"/>
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
