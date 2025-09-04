@@ -146,7 +146,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  
+  <img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashlogics&theme=github_dark">
   <img src="https://github-contributor-stats.vercel.app/api?username=akashlogics&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=akashlogics&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   
