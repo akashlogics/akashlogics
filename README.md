@@ -4,7 +4,10 @@
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm Akash R</h1>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-![Blue Yellow Modern Creative Entrepreneur LinkedIn Banner](https://github.com/user-attachments/assets/7c56cb59-db76-4827-97d0-f43efaf3df42)
+<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/1f2651f6-bd3d-4d6f-b6ab-bfec9ac59601" />
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,7 +15,7 @@
 #### A Software developer with Data Science || Machine learning specialization 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [Portfolio](https://kzml38oui7aqhtskkprq.lite.vusercontent.net/)                                     
+- 🔭 Here's my [Portfolio](http://akashlogics.tech/)                                    
 - 🌱 I’m currently learning DSA, Data Analysis, and ML project
 - 👯 I’m looking to collaborate on Python, ML/AI, and data science projects 
 - 🤔 I’m looking for freelancing and opensource project
